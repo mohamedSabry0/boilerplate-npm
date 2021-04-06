@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "mohamed sabry",
 	"description": "a practice project for npm",
+	"keywords": [ "freecodecamp", "test", "npm" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
