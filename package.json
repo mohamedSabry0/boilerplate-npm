@@ -3,6 +3,7 @@
 	"author": "mohamed sabry",
 	"description": "a practice project for npm",
 	"keywords": [ "freecodecamp", "test", "npm" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
